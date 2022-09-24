@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    background-color: gold;
+    
+}
+
+body {
+    background-color: rgb(15, 16, 14);
+}
+
+table {
+    text-align: center;
+    border: solid;
+    border-color: gold;
+    scroll-padding: 10;
+    letter-spacing: 10:
+}
+table {
+    width: 100%;
+    font-size: medium;
+    height: 100%;
+}
+
+
+td {
+    background-color: gold;
+    width: 20%;
+    text-align: center;
+    height: 33%;
+}
+
+tr { 
+    background-color: rgb(210, 209, 206);
+    
+}
+
+.hari {
+    background-color: gold;
+}
